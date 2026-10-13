@@ -20,59 +20,59 @@ HalfWidthFont::
 INCBIN "gfx/fonts/half_width.1bpp"
 
 Pals_6f0b0::
-	rgb 31, 31, 31
-	rgb 21, 21, 16
-	rgb 10, 10,  8
-	rgb  0,  0,  0
+	rgb 31, 29, 24
+	rgb 26, 24, 27
+	rgb 17, 15, 24
+	rgb 10,  8, 25
 
-	rgb 31, 31, 31
-	rgb 31, 14,  0
-	rgb 26,  8,  0
-	rgb 19,  0,  0
+	rgb 31, 29, 24
+	rgb 31, 20, 26
+	rgb 30, 11, 22
+	rgb 22,  8, 19
 
-	rgb 31, 31, 31
-	rgb  8, 20, 31
-	rgb  0, 12, 31
-	rgb  0,  0, 31
+	rgb 31, 29, 24
+	rgb 15, 25, 31
+	rgb  6, 20, 28
+	rgb 12, 12, 26
 
-	rgb 31, 31, 31
-	rgb  2, 27,  0
-	rgb  0, 19,  6
-	rgb  0, 10,  0
+	rgb 31, 29, 24
+	rgb 18, 28, 28
+	rgb  9, 22, 22
+	rgb 13, 16, 28
 
-	rgb 31, 31, 30
-	rgb 21, 21, 16
-	rgb 10, 10,  8
-	rgb  0,  0,  0
+	rgb 31, 29, 24
+	rgb 26, 24, 27
+	rgb 17, 15, 24
+	rgb 10,  8, 25
 
 Pals_6f0d8::
-	rgb 31, 31, 31
+	rgb 31, 29, 24
 	rgb 30, 29,  0
 	rgb 30,  3,  0
 	rgb  0,  0,  0
 
-	rgb 31, 31, 31
+	rgb 31, 29, 24
 	rgb  0, 18,  0
 	rgb 12, 11, 20
 	rgb  0,  0,  0
 
-	rgb 31, 31, 31
+	rgb 31, 29, 24
 	rgb 22,  0, 22
 	rgb 27,  7,  3
 	rgb  0,  0,  0
 
 Pals_6f0f0::
-	rgb 31, 31, 31
+	rgb 31, 29, 24
 	rgb  0,  0,  0
 	rgb  2, 13, 31
 	rgb  0,  0, 31
 
-	rgb 31, 31, 31
+	rgb 31, 29, 24
 	rgb  0,  0,  0
 	rgb 31,  0,  0
 	rgb  9,  0,  0
 
-	rgb 31, 31, 31
+	rgb 31, 29, 24
 	rgb  0,  0,  0
 	rgb 28, 12,  0
 	rgb 13,  9,  0
@@ -2023,35 +2023,35 @@ DuelDarkSongGfx::
 Palette000::
 	db 6 ; number of palettes
 
-	rgb 31, 31, 31
-	rgb  8, 26,  0
-	rgb  1, 15,  0
-	rgb  1,  0,  5
+	rgb 31, 29, 24
+	rgb 18, 28, 28
+	rgb  9, 22, 22
+	rgb 10,  8, 25
 
-	rgb 31, 31, 31
-	rgb 25, 18,  6
-	rgb 15,  6,  0
-	rgb  1,  0,  5
+	rgb 31, 29, 24
+	rgb 26, 21, 21
+	rgb 17, 12, 21
+	rgb 10,  8, 25
 
-	rgb 31, 31, 31
-	rgb  8, 26,  0
-	rgb 31,  0,  0
-	rgb  1,  0,  5
+	rgb 31, 29, 24
+	rgb 18, 28, 28
+	rgb 30, 11, 22
+	rgb 10,  8, 25
 
-	rgb 31, 31, 31
-	rgb  8, 26,  0
-	rgb 25, 18,  6
-	rgb  1,  0,  5
+	rgb 31, 29, 24
+	rgb 18, 28, 28
+	rgb 26, 21, 21
+	rgb 10,  8, 25
 
-	rgb 31, 31, 31
-	rgb  8, 26,  0
-	rgb  9,  3, 31
-	rgb  1,  0,  5
+	rgb 31, 29, 24
+	rgb 18, 28, 28
+	rgb  6, 20, 28
+	rgb 10,  8, 25
 
-	rgb 31, 31, 31
-	rgb 25, 18,  6
-	rgb  9,  3, 31
-	rgb  1,  0,  5
+	rgb 31, 29, 24
+	rgb 26, 21, 21
+	rgb  6, 20, 28
+	rgb 10,  8, 25
 
 SECTION "Tilesets 28", ROMX
 
@@ -2311,35 +2311,35 @@ LinkOamGfx::
 Palette001::
 	db 6 ; number of palettes
 
-	rgb 31, 31, 31
-	rgb  8, 26,  0
-	rgb  1, 15,  0
-	rgb  1,  0,  5
+	rgb 31, 29, 24
+	rgb 18, 28, 28
+	rgb  9, 22, 22
+	rgb 10,  8, 25
 
-	rgb 31, 31, 31
-	rgb 25, 18,  6
-	rgb 15,  6,  0
-	rgb  1,  0,  5
+	rgb 31, 29, 24
+	rgb 26, 21, 21
+	rgb 17, 12, 21
+	rgb 10,  8, 25
 
-	rgb 31, 31, 31
-	rgb 15,  6,  0
-	rgb 31,  0,  0
-	rgb  1,  0,  5
+	rgb 31, 29, 24
+	rgb 17, 12, 21
+	rgb 30, 11, 22
+	rgb 10,  8, 25
 
-	rgb 31, 31, 31
-	rgb  8, 26,  0
-	rgb 25, 18,  6
-	rgb  1,  0,  5
+	rgb 31, 29, 24
+	rgb 18, 28, 28
+	rgb 26, 21, 21
+	rgb 10,  8, 25
 
-	rgb 31, 31, 31
-	rgb  8, 26,  0
-	rgb  9,  3, 31
-	rgb  1,  0,  5
+	rgb 31, 29, 24
+	rgb 18, 28, 28
+	rgb  6, 20, 28
+	rgb 10,  8, 25
 
-	rgb 31, 31, 31
-	rgb 25, 18,  6
-	rgb  9,  3, 31
-	rgb  1,  0,  5
+	rgb 31, 29, 24
+	rgb 26, 21, 21
+	rgb  6, 20, 28
+	rgb 10,  8, 25
 
 SECTION "Tilesets 31", ROMX
 
@@ -2390,35 +2390,35 @@ CoinTossResultGfx::
 Palette002::
 	db 6 ; number of palettes
 
-	rgb 30, 27, 15
-	rgb 24, 13,  0
-	rgb 14,  8,  0
-	rgb  0,  0,  0
+	rgb 31, 27, 18
+	rgb 21, 15, 21
+	rgb 18, 12, 18
+	rgb 10,  8, 25
 
-	rgb 25, 31, 31
-	rgb  9, 21, 31
-	rgb  5,  7, 31
-	rgb  0,  0,  5
+	rgb 24, 30, 31
+	rgb 15, 25, 31
+	rgb  6, 20, 28
+	rgb 10,  8, 25
 
-	rgb 25, 31, 31
-	rgb  0, 31,  6
-	rgb  0, 16,  0
-	rgb  5,  0,  0
+	rgb 24, 30, 31
+	rgb 18, 28, 28
+	rgb  9, 22, 22
+	rgb 10,  8, 25
 
-	rgb 31, 19,  0
-	rgb 17,  8, 23
-	rgb 10,  0, 15
-	rgb  0,  0,  5
+	rgb 31, 25, 17
+	rgb 20, 15, 29
+	rgb 13, 10, 24
+	rgb 10,  8, 25
 
-	rgb 25, 31, 31
-	rgb  9, 21, 31
-	rgb  0, 16,  0
-	rgb 10,  4,  0
+	rgb 24, 30, 31
+	rgb 15, 25, 31
+	rgb  9, 22, 22
+	rgb 17, 12, 21
 
-	rgb 25, 31, 31
-	rgb  9, 21, 31
-	rgb 31,  0, 31
-	rgb  0,  0,  5
+	rgb 24, 30, 31
+	rgb 15, 25, 31
+	rgb 20, 15, 29
+	rgb 10,  8, 25
 
 Palette053::
 	db 5 ; number of palettes
