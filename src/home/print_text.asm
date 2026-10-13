@@ -337,7 +337,7 @@ ProcessTextHeader::
 	jp ProcessTextHeader
 .tx_ram1
 	call WriteToTextHeader_MoveToNext
-	call CopyPlayerNameOrTurnDuelistName
+	call CopyNameForText ; converts the name to half-width (src/engine/halfwidth_name.asm)
 	ld a, [wStringBuffer]
 	cp TX_HALFWIDTH
 	jr z, .tx_halfwidth

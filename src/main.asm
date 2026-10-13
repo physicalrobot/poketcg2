@@ -80,3 +80,5 @@ INCLUDE "engine/duel/effect_functions2.asm"
 
 SECTION "Effect Functions 1", ROMX
 INCLUDE "engine/duel/effect_functions1.asm"
+
+INCLUDE "engine/halfwidth_name.asm"
